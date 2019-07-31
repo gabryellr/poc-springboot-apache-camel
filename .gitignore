@@ -9,7 +9,6 @@ build/
 
 gradle/
 out/
-build.gradle
 .gradle
 .idea
 camel.iml
